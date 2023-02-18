@@ -9,6 +9,7 @@ This project helped us to understand how a real-world database is analyzed using
 The Project consisted of 2 modules:
 
 Module 1: Pre-processing, Analyzing data using Python and SQL.
+
 Module 2: Visualizing data using Tableau.
 
 Tools Used for Module 2: 
